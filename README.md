@@ -27,7 +27,8 @@
 
 | 微調腳本 |
 | --- |
-| [archlinux-kde-plasma-adjustment](https://github.com/samwhelp/archlinux-kde-plasma-adjustment/tree/main/prototype/main) |
+| [Archlinux Kde Plasma Config](https://github.com/samwhelp/archlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
