@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Archlinux Kde Plasma Adjustment](https://samwhelp.github.io/archlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-kde-plasma-adjustment) |
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
+| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 
 
 
@@ -73,4 +74,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Manjaro Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-manjaro-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-kde-plasma) |
+| [Kde 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
+| [Kde Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
+| [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
