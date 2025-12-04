@@ -30,8 +30,8 @@
 ## 微調腳本
 
 | 微調腳本 |
-| --- |
-| [Archlinux Kde Plasma Config](https://github.com/samwhelp/archlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| ------- |
+| [Archlinux Kde Plasma Config](https://github.com/samwhelp/archlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
@@ -40,7 +40,7 @@
 ## 按鍵綁定
 
 | 按鍵綁定 |
-| --- |
+| ------- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-archlinux-kde-plasma/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-archlinux-kde-plasma/read/config/mousebind.html) |
 
